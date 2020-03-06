@@ -1,0 +1,36 @@
+﻿body {
+    background: url(76YM.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+  font-size: 30px;
+  text-align: center;
+  font-family:COMIC SANS MS
+}
+p {
+  color: yellow;
+  width: 500px;
+  border: 1px solid black;
+}
+p {
+  display: block;
+  margin: 0 auto;
+}
+a {
+  color: yellow;
+  width: 500px;
+  border: 1px solid black;
+}
+a {
+  font-size: 20px;
+  text-align: center;
+}
+a {
+  display: block;
+  margin: 0 auto;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
